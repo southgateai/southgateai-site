@@ -1,0 +1,55 @@
+# SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+appearance:
+  mode: light
+  color: sky
+
+# SEO
+marketing:
+  seo:
+    site_type: Organization
+    local_business_type: ''
+    org_name: 'Southgate AI'
+    description: 'Combatting the negative consequences of superintelligence'
+    twitter: 'southgateai'
+  analytics:
+    google_analytics: 'G-9SZJQQKKXN'
+    baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+header:
+  navbar:
+    enable: true
+    blox: "navbar"
+    align: "left"
+    fixed_to_top: true
+    logo:
+      text: "Southgate AI"
+      # Logo filename in `assets/media/` folder
+      filename: "logo.png"
+    button:
+      enable: false
+      text: ""
+      url: ""
+    show_search: true
+    show_theme_chooser: false
+
+# Site footer
+footer:
+  copyright:
+    notice: '© Andy Southgate 2021-2023'
+
+# Localization
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'

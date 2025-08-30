@@ -1,0 +1,23 @@
+# Navigation Links
+#   To link a page section, specify the URL as a hash `/#` followed by the `id` of the section.
+#   The `weight` parameter defines the order that the links will appear in.
+
+main:
+  - name: The Defensive Argument
+    url: 'defensive/'
+    weight: 20
+  - name: Industry
+    url: 'industry/'
+    weight: 30
+  #  - name: Conjecture
+  #    url: 'conjecture/'
+  #    weight: 50
+  #  - name: The Nature of Reality
+  #    url: 'reality/'
+  #    weight: 70
+  - name: Going Deeper
+    url: 'deeper/'
+    weight: 90
+  - name: About
+    url: 'about/'
+    weight: 1000

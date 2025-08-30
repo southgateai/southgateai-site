@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect x="64" y="64" width="896" height="896" style="fill:white;stroke:rgb(170,170,170);stroke-width:4px;"/>
+    <g transform="matrix(1,0,0,1,572,0)">
+        <text x="229.24px" y="935.635px" style="font-family:'Arial-BoldMT', 'Arial', sans-serif;font-weight:700;font-size:21.333px;fill:rgb(6,0,159);">Southgate <tspan x="338.667px 354.073px " y="935.635px 935.635px ">AI</tspan></text>
+    </g>
+    <path d="M512,64L512,960" style="fill:none;stroke:rgb(170,170,170);stroke-width:4px;"/>
+    <path d="M68,512L960,512" style="fill:none;stroke:rgb(170,170,170);stroke-width:4px;"/>
+    <g transform="matrix(1,0,0,1,0,64)">
+        <g transform="matrix(1,-0,-0,1,0,-64)">
+            <path d="M26,588L32,576L38,588L26,588Z" style="fill:rgb(170,170,170);"/>
+            <path d="M32,736L32,585.6" style="fill:none;stroke:rgb(170,170,170);stroke-width:4px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,848,80)">
+        <circle cx="112" cy="880" r="16" style="fill:rgb(6,0,159);"/>
+    </g>
+    <path d="M500,986L512,992L500,998L500,986Z" style="fill:rgb(170,170,170);"/>
+    <path d="M352,992L502.4,992" style="fill:none;stroke:rgb(170,170,170);stroke-width:4px;"/>
+    <g transform="matrix(1,0,0,1,0,-32)">
+        <text x="64px" y="1033.55px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:26.667px;fill:rgb(6,0,159);">Completeness of vision</text>
+    </g>
+    <g transform="matrix(6.12323e-17,-1,1,6.12323e-17,-992,1024)">
+        <text x="64px" y="1033.55px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:26.667px;fill:rgb(6,0,159);">Ability to execute</text>
+    </g>
+    <g transform="matrix(1,0,0,1,0,-96)">
+        <path d="M448,208C448,199.169 440.831,192 432,192L144,192C135.169,192 128,199.169 128,208L128,240C128,248.831 135.169,256 144,256L432,256C440.831,256 448,248.831 448,240L448,208Z" style="fill:rgb(136,136,136);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,448,-96)">
+        <path d="M448,208C448,199.169 440.831,192 432,192L144,192C135.169,192 128,199.169 128,208L128,240C128,248.831 135.169,256 144,256L432,256C440.831,256 448,248.831 448,240L448,208Z" style="fill:rgb(136,136,136);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,5.68434e-14,352)">
+        <path d="M448,208C448,199.169 440.831,192 432,192L144,192C135.169,192 128,199.169 128,208L128,240C128,248.831 135.169,256 144,256L432,256C440.831,256 448,248.831 448,240L448,208Z" style="fill:rgb(136,136,136);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,448,352)">
+        <path d="M448,208C448,199.169 440.831,192 432,192L144,192C135.169,192 128,199.169 128,208L128,240C128,248.831 135.169,256 144,256L432,256C440.831,256 448,248.831 448,240L448,208Z" style="fill:rgb(136,136,136);"/>
+    </g>
+    <text x="174.156px" y="143.281px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:42.667px;fill:white;">Challengers</text>
+    <g transform="matrix(1,0,0,1,448,0)">
+        <text x="210.906px" y="143.281px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:42.667px;fill:white;">Leaders</text>
+    </g>
+    <g transform="matrix(1,0,0,1,5.68434e-14,448)">
+        <text x="156.396px" y="143.281px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:42.667px;fill:white;">Niche Players</text>
+    </g>
+    <g transform="matrix(1,0,0,1,96,-100)">
+        <g transform="matrix(1,-0,-0,1,-96,100)">
+            <use xlink:href="#_Image1" x="767.787" y="189.694" width="103.071px" height="103.071px" transform="matrix(0.991068,0,0,0.991068,0,0)"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-32,-61)">
+        <text x="579.854px" y="399.281px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:42.667px;">Y<tspan x="604.396px 628.125px " y="399.281px 399.281px ">ou</tspan>r company here!</text>
+    </g>
+    <g transform="matrix(1,0,0,1,448,448)">
+        <text x="184.042px" y="143.281px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:42.667px;fill:white;">V<tspan x="211.729px 221.208px " y="143.281px 143.281px ">is</tspan>ionaries</text>
+    </g>
+    <text x="64px" y="42.188px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:28.444px;">Magic Quadrant for General Detection and Response</text>
+    <g transform="matrix(1,0,0,1,-160,0)">
+        <text x="809.417px" y="999.641px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.333px;">As of <tspan x="862.781px 877.01px " y="999.641px 999.641px ">Au</tspan>gust 2022</text>
+    </g>
+    <g transform="matrix(1,0,0,1,205,192)">
+        <text x="682.797px" y="821px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(136,136,136);">www<tspan x="716.578px 721.023px " y="821px 821px ">.s</tspan>outhgate.ai</text>
+    </g>
+    <defs>
+        <image id="_Image1" width="104px" height="104px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAABoCAYAAAAdHLWhAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADFUlEQVR4nO3ZsU4qQRgF4LNqQb2l9a6PsK0lrb3JhljyBjbyELYGE+MD2FrS8Q5S2y00Giwg/624l2sUFthlzsyck5xAwTLAl38zGRIzg+I2VVXZ29sbJpMJ1h+n0ynOXH+4WPIbwmQywWw2+/GaoigE1GT2QdiUPM8FtGuaRtiULMsEVDeDwcDu7+8bR9iUPM9xcrTVPM/t7S2KojjqmlmWIdEurn6+vr7s6uoKr6+vR1mvqirAzNQdOp/PrdvtGoBWm6apmZlucbum0+kkLy8v6Ha7ra6TZRkACGifHAMpz3MAAto7bSNpghpIm0iaoIbSFtJqgrTNbiifn592cXGB9/f3Rt6vqiqkaZpoghrIcrm0fr/fGE6apkjTNAF0izs4y+XSbm5u8PT01Nh7rm5vgIAOShs4wL8NAiCgvdMWDqAJOjht4gCaoIPSNg7w/wQ5P3z0qYvFwsqy3Ovw8/z8vPZrq6qy1ZrOv7QvPQSnLEv7+PiodQq+OsUW0BFxFouFmdX7q6IoCgG5wFl1G9L19bWAXOHUQRoMBgJyibMN6fn5WUCucTYhjcdjATHg/Ia0vsUWkGOc70jft9gCIsBZR7q7uxMQI86mOv9xXJcZJ3ogdpyogXzAiRbIF5wogXzCiQ7IN5yogHzEiQbIV5wogHzGCR7Id5yggULACRYoFJwggULCCQ4oNJyggELECQYoVJwggELG8R4odByvgWLA8RYoFhwvgWLC8Q4oNhyvgGLE8QYoVhwvgGLGoQeKHYcaSDjEQMIhBhIOMZBwiIGEQwwkHGIg4RADCYcYSDjEQMIhBhIOMZBwiIGEQwwkHGIg4RADCYcYSDjEQMIhBhIOMZBwiIGEQwwkHGIg4RADCYcYSDjEQMIhBhIOMZBwiIGEQwwkHGIg4RADCcd9hUNe4ZBXOOQVDnmFQ17hkFc45EWv1xMOcU8uLy+RJAl2SVmWGA6HOD093e1CZfeYGR4fHy1JEk0OYf8+qYMkHIdA25CEQwD0G5JwiIC+IwnHbc9+2jj0er0EgI1GIzw8PGi35jB/AIkV/eREfnl2AAAAAElFTkSuQmCC"/>
+    </defs>
+</svg>

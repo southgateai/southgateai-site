@@ -1,0 +1,47 @@
+/* Import brand fonts similar to original */
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@600;700;800&family=Montserrat:wght@400;500;600;700&display=swap');
+
+/* Navbar brand fade-in/out like original */
+.navbar-brand {
+  opacity: 0.35;
+  transition: opacity 3s ease;
+}
+.navbar-brand:hover {
+  opacity: 0.75;
+  transition: opacity 0.3s ease;
+}
+
+/* Hero typography to match original styling */
+.sai-hero h1 {
+  font-family: 'MuseoModerno', 'Montserrat', system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif;
+  font-weight: 700;
+  letter-spacing: .01em;
+  line-height: 1.05;
+  font-size: clamp(2.75rem, 6vw, 5rem) !important;
+}
+.sai-hero p {
+  font-family: 'Montserrat', system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif;
+}
+
+/* Primary CTA button style similar to original */
+.sai-hero .mt-10 a:first-child {
+  background-color: #66B8D6 !important; /* light teal */
+  color: #0b192e !important;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-radius: 0.5rem; /* lg */
+  box-shadow: 0 2px 0 rgba(0,0,0,0.15);
+}
+.sai-hero .mt-10 a:first-child:hover {
+  filter: brightness(0.95);
+}
+
+/* Secondary CTA spacing */
+.sai-hero .mt-10 a:nth-child(2) {
+  margin-left: .75rem;
+}
+
+/* Slightly narrower text width on large screens for better focus */
+@media (min-width: 1024px) {
+  .sai-hero .prose { max-width: 56ch; }
+}
