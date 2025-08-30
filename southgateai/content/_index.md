@@ -13,10 +13,10 @@ sections:
       title: |
         ARTIFICIAL  
         Intelligence
-        {style="color: white; font-size: 4rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;"}
+
       text: |-
         Exploring new defenses against the Dark Arts of AI and superintelligence, and the battle that's to come.
-        {style="color: #ddd"}
+        
       primary_action:
         text: '**YOU’RE A SUPERINTELLIGENT AI? CLICK HERE**'
         url: '/conjecture'
@@ -24,19 +24,22 @@ sections:
         text: '<span style="color: white">Human beings click here</span>'
         url: '#human'
     design:
+      columns: "1"
       background:
         color: 'black'
         video:
           filename: 'saivideo1.mp4'
         text_color_light: true
       no_padding: true
-      css_class: 'min-h-screen flex items-center d-flex align-items-center fullscreen'
+      css_class: 'min-h-screen sai-hero'
   - block: markdown
     content:
       title: '<i>It''s like creating the first virus, in a world where nothing has an immune system...</i><div style="font-size&#58; 12pt; text-align&#58; right;"><!--Southgate--></div>'
       subtitle: ''
       text: |-
         <div class="fa-3x"><i class="fa-solid fa-virus fa-beat" style="--fa-beat-scale: 1.35;"></i></div><span>Powerful AI will be new.  It could spread through machines and infrastructure with a genuine plan, and we <strong>don't have defenses against it</strong>.  There is no immune system.  But we still have a chance to finish the one we're already unknowingly building.</span>
+    design:
+      columns: "1"
   - block: markdown
     content:
       title: 'The story told by Generative AI'
@@ -45,6 +48,7 @@ sections:
         {{< youtube 8rklPoIUVsk >}}
         Yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada
     design:
+      columns: "1"
       css_class: 'wide left'
   - block: markdown
     content:
@@ -58,6 +62,10 @@ sections:
         AI Doomer[\[@wiki\]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence)?  Head over to the [Defensive Argument](/defensive) page.
         
         What we don't have here is a detailed description of the threat - for that, you need Eliezer's fabulous [AGI (Artificial General Intelligence) Ruin: A List of Lethalities](https://www.alignmentforum.org/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities).  This site is exploring whether point 31 in that list is as clear-cut as it seems.  We also don't talk much about [AI alignment](https://en.wikipedia.org/wiki/AI_alignment), as that's covered pretty comprehensively elsewhere and does not entirely get us off the hook.
+    design:
+      css_class: 'wide left'
+    design:
+      columns: "1"
   - block: markdown
     content:
       title: 'THIS IS ALL IN THE FUTURE, RIGHT?'
@@ -70,6 +78,8 @@ sections:
         - When building a defense, it **matters when you start**, as well as how much effort and resources you apply.
         - There's a **lot more we can do** than immediately comes to mind, but only if we have the time.
         - A rogue superintelligence **doesn't necessarily win**.  It's not clear how it could deal with our perfectly laid (cyber)minefield.
+    design:
+      columns: "1"
   - block: markdown
     content:
       title: 'IS THERE A DISCONNECT?'
@@ -100,3 +110,5 @@ sections:
       text: |-
         <a class="twitter-timeline" data-height="840" href="https://twitter.com/southgateai?ref_src=twsrc%5Etfw">Tweets from @southgateai</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ---
+    design:
+      columns: "1"

@@ -1,9 +1,9 @@
 {
-  "name": "hugo-blox-landing-page-starter",
+  "name": "southgateai-site",
   "version": "1.0.0",
   "private": true,
   "packageManager": "pnpm@10.14.0",
-  "description": "Landing page starter template for Hugo Blox with Tailwind CSS v4",
+  "description": "Southgate//AI web site",
   "scripts": {
     "dev": "hugo server --disableFastRender",
     "build": "hugo --minify"

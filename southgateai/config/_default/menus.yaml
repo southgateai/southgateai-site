@@ -9,12 +9,6 @@ main:
   - name: Industry
     url: 'industry/'
     weight: 30
-  #  - name: Conjecture
-  #    url: 'conjecture/'
-  #    weight: 50
-  #  - name: The Nature of Reality
-  #    url: 'reality/'
-  #    weight: 70
   - name: Going Deeper
     url: 'deeper/'
     weight: 90

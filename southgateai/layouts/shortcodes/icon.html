@@ -1,0 +1,9 @@
+{{/* Shortcode: render an SVG icon via Hugo Blox icon packs
+   Usage: {{< icon name="shield-check" pack="hero" attributes="class='w-8 h-8 text-sky-500'" >}}
+   Packs: hero (default), brands, hb, or custom packs in assets/media/icons/<pack>/<name>.svg
+*/}}
+{{ $name := .Get "name" }}
+{{ $pack := .Get "pack" }}
+{{ $attrs := .Get "attributes" }}
+{{ partial "functions/get_icon" (dict "name" $name "pack" $pack "attributes" $attrs) }}
+
