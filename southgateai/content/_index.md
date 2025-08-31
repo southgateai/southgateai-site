@@ -34,22 +34,16 @@ sections:
       css_class: 'min-h-screen sai-hero'
   - block: markdown
     content:
-      title: ''
+      title: 'It’s like creating the first virus, in a world where nothing has an immune system…'
       subtitle: ''
       text: |-
-        <div class="flex items-start gap-8">
-          <div class="shrink-0 leading-tight sai-section-title italic" style="max-width: 20ch;">
-            It’s like creating the first virus, in a world where nothing has an immune system…
-          </div>
+        <div class="flex items-start" style="gap: 1rem;">
+          <i class="fa-solid fa-virus fa-3x" aria-hidden="true"></i>
           <div>
-            <div class="mb-3">
-              <i class="fa-solid fa-virus fa-3x" aria-hidden="true"></i>
-            </div>
-            <div>
-              Powerful AI will be new. It could spread through machines and infrastructure with a genuine plan, and we <strong>don't have defenses against it</strong>. There is no immune system. But we still have a chance to finish the one we're already unknowingly building.
-            </div>
+            Powerful AI will be new. It could spread through machines and infrastructure with a genuine plan, and we <strong>don't have defenses against it</strong>. There is no immune system. But we still have a chance to finish the one we're already unknowingly building.
           </div>
         </div>
+
     design:
       columns: "1"
   - block: markdown
