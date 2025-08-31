@@ -1,0 +1,21 @@
+{{/* Hugo Blox: Markdown (site override) */}}
+{{/* Removes max-w-prose constraint and supports left alignment via css_class */}}
+
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $title := $block.content.title | emojify | $page.RenderString }}
+{{ $text := $block.content.text | emojify | $page.RenderString | safeHTML }}
+
+{{/* Detect left alignment from css_class */}}
+{{ $css := lower ($block.design.css_class | default "") }}
+{{ $align_left := in $css "left" }}
+<div class="flex flex-col {{ if $align_left }}items-start{{ else }}items-center{{ end }} mx-auto w-full gap-3 px-6 md:px-8 max-w-screen-xl">
+
+  <div class="mb-6 sai-section-title text-gray-900 dark:text-white w-full {{ if $align_left }}text-left{{ else }}text-center{{ end }}">
+    {{ $title }}
+  </div>
+
+  {{/* Use DIV rather than P to support `prose` class and multiple paragraphs */}}
+  {{ with $text }}<div class="prose prose-slate lg:prose-xl dark:prose-invert w-full text-left">{{ . }}</div>{{ end }}
+</div>
