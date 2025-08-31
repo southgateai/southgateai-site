@@ -31,7 +31,7 @@ sections:
       text: |-
         A brief and incomplete list of ways to fail, just so we know we're on the same page.
         
-         - **Create a good superintelligent AI.**  Due to the Alignment Problem[\[@wiki\]](https://en.wikipedia.org/wiki/AI_alignment) this ends badly.
+         - **Create a good superintelligent AI.**  Due to the Alignment Problem[[@wiki]](https://en.wikipedia.org/wiki/AI_alignment) this ends badly.
          - **Create a good superintelligent AI to combat any bad superintelligent AI.**  At the risk of saying "See above", for various reasons, mostly the Alignment Problem again, this doesn't work.  The one caveat is that maybe this is an easier alignment problem to solve, but let's not count on it.
          - **Try to not create powerful AI at all.**  We show no signs of resisting that temptation, nor any clear way to do so.
          - **Allow the superintelligent AI to get full knowledge of the defenses it's facing, and the knowledge that it has full knowledge.**  Once it knows it has all the information it can formulate a plan to escape.
@@ -51,7 +51,7 @@ sections:
          - **Generally, we get to design the hardware the AI runs on.**  So we can build in whatever safeguards we want, and force the AI to fabricate its own silicon (or equivalent) to fully escape them.
          - **Physical weapons are still a thing.**  Any agency or nation-state trying to build AI systems without these safeguards is potentially subject to attack.  Deliberately trying to build a Doomsday AI, or even acquire the unfettered capability to do that, is likely to get you nuked, and you need to be very sure you can do it in secret before you try.
          - **All computer systems will need this type of protection anyway.**  Malware and malicious attack techniques, including those boosted by weak-ish AI, are likely to become so advanced that unprotected hardware connected to the network is rapidly compromised.
-         - **The AI has to get information from somewhere, and we can monitor what it's looking at.**  It won't be as easy as seeing it search for "How to destroy humanity and get away with it"[\[@google\]](https://www.google.com/search?q=How+to+destroy+humanity+and+get+away+with+it) but its patterns of interaction with the outside world can give away something.
+         - **The AI has to get information from somewhere, and we can monitor what it's looking at.**  It won't be as easy as seeing it search for "How to destroy humanity and get away with it"[[@google]](https://www.google.com/search?q=How+to+destroy+humanity+and+get+away+with+it) but its patterns of interaction with the outside world can give away something.
          - **The AI can't just sit there silently plotting, then suddenly launch a devastating attack.**  It needs to stay current with what's happening in the world to be sure of a successful attack, although it *can* be deceptive about how it does that.
          - **The AI can try to deceive us but we can also try to deceive it.**  We can potentially trick it into revealing what it's going to do.
          - **AI introspection - seeing how the AI is making decisions - might help to some extent.**  It's difficult to forecast how well this might work, but you could monitor the internals of an AI as you, say, ask it a set of 10,000 questions.

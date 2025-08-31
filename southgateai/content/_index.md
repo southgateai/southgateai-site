@@ -38,7 +38,7 @@ sections:
       subtitle: ''
       text: |-
         <div class="flex items-start gap-8">
-          <div class="shrink-0 leading-tight sai-section-title italic">
+          <div class="shrink-0 leading-tight sai-section-title italic" style="max-width: 20ch;">
             It’s like creating the first virus, in a world where nothing has an immune system…
           </div>
           <div>
@@ -55,10 +55,9 @@ sections:
   - block: markdown
     content:
       title: 'The story told by Generative AI'
-      subtitle: 'We ask it about its plans for humanity'
+      subtitle: 'We asked it about its plans for humanity, back in May 2023'
       text: |-
         {{< youtube 8rklPoIUVsk >}}
-        Yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada yada
     design:
       columns: "1"
       background:
@@ -73,7 +72,7 @@ sections:
         
         If you want a commercial angle, try the [Industry](/industry) page.  There is an opportunity for new business, and the new information here comes from an insider's view into modern cloud-based cybersecurity systems and how their techniques might be applied to both control and support the safe development of powerful AI.
         
-        AI Doomer[\[@wiki\]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence)?  Head over to the [Defensive Argument](/defensive) page.
+        AI Doomer[[@wiki]](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence)?  Head over to the [Defensive Argument](/defensive) page.
         
         What we don't have here is a detailed description of the threat - for that, you need Eliezer's fabulous [AGI (Artificial General Intelligence) Ruin: A List of Lethalities](https://www.alignmentforum.org/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities).  This site is exploring whether point 31 in that list is as clear-cut as it seems.  We also don't talk much about [AI alignment](https://en.wikipedia.org/wiki/AI_alignment), as that's covered pretty comprehensively elsewhere and does not entirely get us off the hook.
     design:

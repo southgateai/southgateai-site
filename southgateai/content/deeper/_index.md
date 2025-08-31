@@ -59,7 +59,7 @@ sections:
         
         Well, I doubt it, to be honest, to all of the above, although it does highlight our ability to ignore horrific possibilities and just carry on.
         
-        No, the universe isn't that mean to us, consciousness is just going to detach at some point.  Or do something far more interesting, like initiate False Vacuum Decay[\[@wiki\]](https://en.wikipedia.org/wiki/False_vacuum_decay).
+        No, the universe isn't that mean to us, consciousness is just going to detach at some point.  Or do something far more interesting, like initiate False Vacuum Decay[[@wiki]](https://en.wikipedia.org/wiki/False_vacuum_decay).
         
         There's more to this one though.  It is difficult to think about this kind of thing.  It feels like part of a mental block evolution has given us so we can get on with our lives.
   - block: markdown

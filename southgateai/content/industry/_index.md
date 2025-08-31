@@ -29,7 +29,7 @@ sections:
       text: |-
         On the plus side, industry **knows things that other groups might not**.
         
-         - AI alignment[\[@wiki\]](https://en.wikipedia.org/wiki/AI_alignment) - controlling AI by giving it a benevolent set of goals - is neither easy nor great at its job.
+         - AI alignment[[@wiki]](https://en.wikipedia.org/wiki/AI_alignment) - controlling AI by giving it a benevolent set of goals - is neither easy nor great at its job.
            - Not least because once powerful AI technology exists it can just be repurposed with a more dangerous set of goals.
          - The idea of 'sensor' software on countless millions of computers, sending a second-by-second account of what that computer is doing, for complex problem-spotting analysis and response in the cloud.  It might sound far-fetched and unachievable, but it already happens every day.
   - block: markdown
@@ -76,8 +76,8 @@ sections:
       text: |-
         Will we see another era of cybersecurity?
         
-         - **EDR[\[@wiki\]](https://en.wikipedia.org/wiki/Endpoint_detection_and_response) - Endpoint Detection and Response** (2013).  Technology that continually monitors an "endpoint" (for example a laptop, mobile phone, IoT device) to mitigate threats.
-         - **XDR[\[@wiki\]](https://en.wikipedia.org/wiki/Extended_detection_and_response) - Extended Detection and Response** (2018). Technology that continually collects and correlates data across various network points such as servers, email, cloud workloads, and endpoints to mitigate threats.
+         - **EDR[[@wiki]](https://en.wikipedia.org/wiki/Endpoint_detection_and_response) - Endpoint Detection and Response** (2013).  Technology that continually monitors an "endpoint" (for example a laptop, mobile phone, IoT device) to mitigate threats.
+         - **XDR[[@wiki]](https://en.wikipedia.org/wiki/Extended_detection_and_response) - Extended Detection and Response** (2018). Technology that continually collects and correlates data across various network points such as servers, email, cloud workloads, and endpoints to mitigate threats.
          - **GDR - General Detection and Response.**  Technology that continually collects and correlates data from all relevant sources to mitigate threats from Artificial General Intelligence.
         
         If so, the field is wide open.

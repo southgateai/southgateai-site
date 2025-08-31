@@ -5,6 +5,7 @@
 {{ $page := .wcPage }}
 {{ $block := .wcBlock }}
 {{ $title := $block.content.title | emojify | $page.RenderString }}
+{{ $subtitle := $block.content.subtitle | emojify | $page.RenderString }}
 {{ $text := $block.content.text | emojify | $page.RenderString | safeHTML }}
 
 {{/* Detect left alignment from css_class */}}
@@ -15,6 +16,11 @@
   <div class="mb-6 sai-section-title text-gray-900 dark:text-white w-full {{ if $align_left }}text-left{{ else }}text-center{{ end }}">
     {{ $title }}
   </div>
+  {{ with $subtitle }}
+  <div class="-mt-4 mb-4 text-gray-700 dark:text-gray-300 opacity-50 w-full {{ if $align_left }}text-left{{ else }}text-center{{ end }}">
+    {{ . }}
+  </div>
+  {{ end }}
 
   {{/* Use DIV rather than P to support `prose` class and multiple paragraphs */}}
   {{ with $text }}<div class="prose prose-slate lg:prose-xl dark:prose-invert w-full text-left">{{ . }}</div>{{ end }}
